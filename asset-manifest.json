@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/Lumina-Analytics/static/js/main.db5187d5.js",
+    "main.js": "/Lumina-Analytics/static/js/main.a727b2e5.js",
     "index.html": "/Lumina-Analytics/index.html",
-    "main.db5187d5.js.map": "/Lumina-Analytics/static/js/main.db5187d5.js.map"
+    "main.a727b2e5.js.map": "/Lumina-Analytics/static/js/main.a727b2e5.js.map"
   },
   "entrypoints": [
-    "static/js/main.db5187d5.js"
+    "static/js/main.a727b2e5.js"
   ]
 }
