@@ -190,9 +190,9 @@ export default function Dashboard() {
               background: "linear-gradient(135deg, #6366f1, #06b6d4)",
               display: "flex", alignItems: "center", justifyContent: "center",
               fontSize: 12, fontWeight: 700, color: "#fff"
-            }}>AK</div>
+            }}>YS</div>
             <div>
-              <div style={{ fontSize: 13, fontWeight: 600, color: "#0f172a" }}>Alex Kim</div>
+              <div style={{ fontSize: 13, fontWeight: 600, color: "#0f172a" }}>Yashasvi</div>
               <div style={{ fontSize: 11, color: "#94a3b8" }}>Admin</div>
             </div>
           </div>
@@ -206,7 +206,7 @@ export default function Dashboard() {
         <div style={{ display: "flex", justifyContent: "space-between", alignItems: "flex-start", marginBottom: 32 }}>
           <div>
             <h1 style={{ fontSize: 26, fontWeight: 700, color: "#0f172a", letterSpacing: "-0.5px", lineHeight: 1.2 }}>
-              Good morning, Alex 👋
+              Good morning, Yashasvi 👋
             </h1>
             <p style={{ color: "#94a3b8", marginTop: 4, fontSize: 14, fontWeight: 400 }}>
               Here's what's happening with Lumina today.
